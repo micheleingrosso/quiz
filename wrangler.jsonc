@@ -6,5 +6,5 @@
   "workers_dev": true,
   "assets": {"directory": "./public", "binding": "STATIC", "run_worker_first": true},
   "d1_databases": [{"binding":"DB","database_name":"everup-quiz","database_id":"8e3de847-6fc5-456c-aea1-e9eb5ff33992","migrations_dir":"migrations"}],
-  "r2_buckets": [{"binding":"MEDIA","bucket_name":"everup-quiz-media"}]
+  "r2_buckets": [{"binding":"MEDIA","bucket_name":"everup-quiz-media","jurisdiction": "eu"}]
 }
