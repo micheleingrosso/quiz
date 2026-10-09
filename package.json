@@ -1,0 +1,1 @@
+{"name":"everup-quiz-cloud","private":true,"type":"module","version":"0.3.0","scripts":{"dev":"wrangler dev","deploy":"wrangler deploy","migrate":"wrangler d1 migrations apply everup-quiz --remote","test":"node --test test/*.test.js"},"devDependencies":{"wrangler":"^4.0.0"}}
